@@ -15,7 +15,7 @@
 * **sm_lada** - Opens the menu
 * **sm_kulcsadas** - Give keys
 * **sm_ladaadas** - Give crates
-* **sm_drop** - Give crates
+* **sm_drop** - Giving out a crate like in the endgame drop
 * **sm_kitilt** - Banning a player
 
 Video:
