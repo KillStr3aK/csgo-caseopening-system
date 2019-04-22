@@ -9,7 +9,7 @@
 * Endgame drops ( Core included ) - A random player will be picked for the case drop
 * Map end crate pickup ( Core included ) - The first one can pickup a case in the end of the maps (image below)
 * Ban system ( Core included ) - Admins can ban players from using the system.
-* Easter event ( Core included ) - Admins can ban players from using the system.
+* Easter event ( Core included ) - Players can collect red eggs, then they can exchange it for a golden egg or sell it
 
 ### Commands:
 * **sm_lada** - Opens the menu
