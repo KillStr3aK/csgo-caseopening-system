@@ -6,8 +6,8 @@
 * Store Support ( Core included ) - Players can open anything from the Store plugin
 * VIP Support ( Core included ) - Currently only tVip is supported
 * Admin commands ( Core included ) - Commands will be listed below
-* Endgame drops ( Core included ) - Allow player change to third-person or mirror mode.
-* Map end crate pickup ( Core included ) - Allow player change to third-person or mirror mode.
+* Endgame drops ( Core included ) - A random player will be picked for the case drop
+* Map end crate pickup ( Core included ) - The first one can pickup a case in the end of the maps (image below)
 * Ban system ( Core included ) - Admins can ban players from using the system.
 * Easter event ( Core included ) - Admins can ban players from using the system.
 
