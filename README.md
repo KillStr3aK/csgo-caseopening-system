@@ -2,7 +2,7 @@
 ***There is no source code currently, totally private.***
 
 ### Modules and Features:
-* WS Support ( Core included )  - Players can open items from WS. ***Will trigger GSLT ban if VALVe starts banning tokens again^^***
+* WS Support ( Coming soon )  - Players can open items from WS. ***Will trigger GSLT ban if VALVe starts banning tokens again^^***
 * Store Support ( Core included ) - Players can open anything from the Store plugin
 * VIP Support ( Core included ) - Currently only tVip is supported
 * Admin commands ( Core included ) - Commands will be listed below
