@@ -1,6 +1,8 @@
 # csgo-caseopening-system
 ***There is no source code currently, totally private.***
 ### Changelog:
+
+2019.06.09
 * Added natives
 * Invisible name bug fixed
 * Added support for fancy playernames
