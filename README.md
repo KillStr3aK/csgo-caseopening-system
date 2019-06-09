@@ -1,5 +1,9 @@
 # csgo-caseopening-system
 ***There is no source code currently, totally private.***
+### Changelog:
+* Added natives
+* Invisible name bug fixed
+* Added support for fancy playernames
 
 ### Modules and Features:
 * WS Support ( Coming soon )  - Players can open items from WS. ***Will trigger GSLT ban if VALVe starts banning tokens again^^***
