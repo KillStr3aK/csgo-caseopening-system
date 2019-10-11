@@ -2,6 +2,47 @@
 ***There is no source code currently, totally private.***
 ### Changelog:
 
+
+MOVED HERE: https://github.com/KillStr3aK/caseopening
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 2019.06.09
 * Added natives
 * Invisible name bug fixed
