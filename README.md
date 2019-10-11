@@ -1,9 +1,10 @@
 # csgo-caseopening-system
 ***There is no source code currently, totally private.***
+
+### MOVED HERE: https://github.com/KillStr3aK/caseopening
+### THIS ONE WONT BE CONTINUED, THE NEW ONE WILL BE AVAILABLE FOR EVERYONE ONCE IT FINISHED
+
 ### Changelog:
-
-
-MOVED HERE: https://github.com/KillStr3aK/caseopening
 
 
 
